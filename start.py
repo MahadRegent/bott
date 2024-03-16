@@ -9,7 +9,7 @@ intents.typing = False
 intents.presences = False
 intents.messages = True
 
-token = "MTIwODUyNDcyMDE2NTc1Mjg5Mw.G2XU2R.LxlkDS0knzvVhGipt62gmrLVH8bOzV0BbRM_Hg"
+token = "MTIxODU2NDEzNTk0NDU4OTMzMg.G_U9zf.9NKc6IK7L640hXX1FqxJv1ssYrMAAd1Ya_xwB0"
 
 client = commands.Bot(command_prefix='!', intents=intents)
 
